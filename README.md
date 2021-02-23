@@ -9,7 +9,8 @@ Missing values filled with KNN and applications have been made with apriori. The
 
 Bayes Classifier, Decision Tree Classifier, KNN Classifier used for classification. <br>
 
-acc,err,recall, specifity results are seen.
+acc,err,recall, specifity results are seen. <br>
+![alt text](https://github.com/bakkyn/COVID19-inpatient-cases-data/blob/main/result.png)
 
 
 
