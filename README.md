@@ -7,7 +7,11 @@ You can see the attributes and data contents during the data review phase.<br>
 
 Missing values filled with KNN and applications have been made with apriori. Then different classification types are applied and trees visualized. Evaluation Part includes Decision Boundries, ROC Curves, Performance Comparisons. <br>
 
-Bayes Classifier, Decision Tree Classifier, KNN Classifier used for classification. 
+Bayes Classifier, Decision Tree Classifier, KNN Classifier used for classification. <br>
+
+acc,err,recall, specifity results are seen.
+
+
 
 
 
